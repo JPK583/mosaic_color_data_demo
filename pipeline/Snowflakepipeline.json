@@ -1,9 +1,0 @@
-{
-	"name": "Snowflakepipeline",
-	"properties": {
-		"folder": {
-			"name": "MosaicToNetezzaSnowflake"
-		},
-		"annotations": []
-	}
-}
