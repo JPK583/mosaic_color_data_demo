@@ -1,0 +1,9 @@
+{
+	"name": "Brazilpipeline",
+	"properties": {
+		"folder": {
+			"name": "BrazilDataToICRIS"
+		},
+		"annotations": []
+	}
+}
